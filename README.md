@@ -17,3 +17,6 @@ https://www.youtube.com/watch?v=yO-TfKT2O_4
 https://www.youtube.com/watch?v=nxXkquTPng8
 
 https://www.youtube.com/user/jaffathecakeuk/videos
+
+http://www.chromium.org/developers/design-documents/impl-side-painting
+
