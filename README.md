@@ -24,4 +24,5 @@ http://www.html5rocks.com/en/tutorials/speed/layers/
 
 https://developer.chrome.com/devtools/docs/rendering-settings
 
+https://www.youtube.com/watch?v=9xjpmpX4NJE
 
