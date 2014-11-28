@@ -21,3 +21,7 @@ https://www.youtube.com/user/jaffathecakeuk/videos
 http://www.chromium.org/developers/design-documents/impl-side-painting
 
 http://www.html5rocks.com/en/tutorials/speed/layers/
+
+https://developer.chrome.com/devtools/docs/rendering-settings
+
+
