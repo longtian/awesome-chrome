@@ -28,3 +28,11 @@ https://www.youtube.com/watch?v=9xjpmpX4NJE
 
 https://docs.google.com/presentation/d/1WOhbWLkhMyo4vZUaHq-FO-mt0B2sejXw-lMwohD5iUo/edit#slide=id.g2a8a2080a_088
 
+https://www.youtube.com/watch?v=WEBeNZ8khS4
+
+https://www.youtube.com/watch?v=CE12cBoalIc
+
+https://www.youtube.com/watch?v=Lpk1dYdo62o
+
+https://www.youtube.com/results?search_query=perfmatters
+
