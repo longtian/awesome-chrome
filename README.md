@@ -2,11 +2,15 @@ Articles on how chrome worls
 
 ===============
 
+http://www.chromium.org/developers/design-documents/gpu-accelerated-compositing-in-chrome
 
+http://www.chromium.org/developers/the-rendering-critical-path
 
 http://jankfree.org/
 
 http://www.chromium.org/developers/how-tos/trace-event-profiling-tool
+
+http://www.chromium.org/developers/how-tos/trace-event-profiling-tool/trace-event-reading
 
 http://google.github.io/tracing-framework/overview.html
 
@@ -34,5 +38,8 @@ https://www.youtube.com/watch?v=CE12cBoalIc
 
 https://www.youtube.com/watch?v=Lpk1dYdo62o
 
+https://www.youtube.com/user/paulirish
+
 https://www.youtube.com/results?search_query=perfmatters
 
+https://www.youtube.com/watch?v=R6TXuXV1bbY
