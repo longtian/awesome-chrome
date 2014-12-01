@@ -43,3 +43,5 @@ https://www.youtube.com/user/paulirish
 https://www.youtube.com/results?search_query=perfmatters
 
 https://www.youtube.com/watch?v=R6TXuXV1bbY
+
+http://www.chromium.org/developers/how-tos/trace-event-profiling-tool/anatomy-of-jank
