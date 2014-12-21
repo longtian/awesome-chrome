@@ -17,6 +17,7 @@ http://google.github.io/tracing-framework/overview.html
 https://sites.google.com/a/chromium.org/dev/developers/how-tos/trace-event-profiling-tool/frame-viewer
 
 https://www.youtube.com/watch?v=yO-TfKT2O_4
+Customize Devtools Panel & Remote Debugging using --remote-debugging-port=9222
 
 https://www.youtube.com/watch?v=nxXkquTPng8
 
