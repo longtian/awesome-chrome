@@ -45,3 +45,5 @@
 - http://www.chromium.org/developers/how-tos/trace-event-profiling-tool/anatomy-of-jank
 
 - https://docs.google.com/document/d/11N2WTV3M0IkZ-kQlKWlBcwkOkKTCuLXGVNylK5E2zvc/edit#heading=h.3ay9sj44f0zd
+
+- https://github.com/ChromeDevTools/debugger-protocol-viewer 
